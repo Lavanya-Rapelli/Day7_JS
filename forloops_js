@@ -1,0 +1,31 @@
+// for (let i = 0; i < 5; i++) {
+//     console.log(i);
+// }
+
+// const fruits = ["apple", "banana", "cherry"];
+
+// for (let i = 0; i < fruits.length; i++) {
+//     console.log(fruits[i]);
+// }
+
+// const person = {
+//     name: "Lavanya",
+//     age: 22,
+//     job: "digital marketer"
+// };
+
+// for (let key in person) {
+//     console.log(`${key}: ${person[key]}`);
+// }
+
+// const colors = ["red", "green", "blue"];
+
+// for (let color of colors) {
+//     console.log(color);
+// }
+
+const cars = ["Tesla", "BMW", "Audi"];
+
+for (let index in cars) {
+    console.log(index); // prints 0, 1, 2
+}
