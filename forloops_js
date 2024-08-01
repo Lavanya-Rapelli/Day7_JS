@@ -24,8 +24,8 @@
 //     console.log(color);
 // }
 
-const cars = ["Tesla", "BMW", "Audi"];
+// const cars = ["Tesla", "BMW", "Audi"];
 
-for (let index in cars) {
-    console.log(index); // prints 0, 1, 2
-}
+// for (let index in cars) {
+//     console.log(index); // prints 0, 1, 2
+// }
